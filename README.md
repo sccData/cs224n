@@ -1,2 +1,11 @@
-# cs224n-
-记录cs224n学习中的资料和作业
+# 自然语言处理斯坦福CS224n课程
+## 实验环境
+推荐使用Linux或者Mac系统, 一下环境搭建方法皆适用:
+* [Docker环境配置](https://github.com/ufoym/deepo)
+* [本地环境配置](https://github.com/learning511/cs224n-learning-camp/blob/master/environment.md)
+## 教程
+### Week1
+1. 自然语言处理和深度学习简介
+* 课件:[lecture01](https://github.com/sccData/cs224n/tree/master/week1/ppt)
+* [观看视频1](https://www.bilibili.com/video/av30326868?from=search&seid=8020208288122277189)
+* 学习笔记:[自然语言处理与深度学习简介](http://www.hankcs.com/nlp/cs224n-introduction-to-nlp-and-deep-learning.html)
